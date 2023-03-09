@@ -5,6 +5,7 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/aash-gates/pen/Jj
 ## Tech About the Web Page
 
 This is a webpage that is compatible with all the screen sizes and is called a responsive webpage. Responsive web design (RWD) is an approach to web design that ensures that web pages render well on a variety of devices and window or screen sizes. By using techniques such as fluid grids and flexible images, responsive design aims to create a consistent user experience across different devices, from desktops and laptops to tablets and mobile phones.
+
 ## Landing Page (index.html)
 
 This Site was generated using the Mobirise Web-Developer
