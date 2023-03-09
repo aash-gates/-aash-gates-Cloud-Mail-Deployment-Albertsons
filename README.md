@@ -2,7 +2,22 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/aash-gates/pen/JjaObXR](https://codepen.io/aash-gates/pen/JjaObXR).
 
-# Javascript Part
+## Landing Page (index.html)
+
+This Site was generated using the Mobirise Web-Developer
+
+## Contact Us Page
+This is an HTML file that contains a form for submitting messages to a team of developers. It uses the Tailwind CSS library for styling.
+
+The file starts with some meta tags for defining the character set, viewport, and social media metadata. Then it includes the Tailwind CSS stylesheet from a CDN.
+
+The body of the HTML file consists of a div with a class of "flex items-center min-h-screen bg-gray-50 dark:bg-gray-900" which sets the background color of the page. Inside this div, there is another div with classes for centering the content on the page and setting the maximum width. This div contains a form for submitting messages.
+
+The form has some hidden input fields for setting the access key and subject of the message. It also includes input fields for the user's name, email address, phone number, and message. The form uses the Web3Forms API to submit the message when the user clicks the "Send Message" button.
+
+Finally, there is a script tag at the bottom of the HTML file that includes a JavaScript file called "script.js". It's not clear what this JavaScript file does without seeing its contents.
+
+## Javascript Part
 
 This code is written in JavaScript and is used to handle form submission using the fetch API. Here's what it does:
 
