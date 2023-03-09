@@ -8,7 +8,7 @@ This is a webpage that is compatible with all the screen sizes and is called a r
 
 ## Landing Page (index.html)
 
-This Site was generated using the Mobirise Web-Developer
+This Site was generated using the Mobirise Web-Developer.
 
 ## Contact Us Page
 This is an HTML file that contains a form for submitting messages to a team of developers. It uses the Tailwind CSS library for styling.
