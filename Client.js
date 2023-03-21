@@ -1,5 +1,6 @@
 const sgMail = require('@sendgrid/mail');
 
+sgMail.setApiKey('Your API Key Here');
 
 const msg = {
   to: 'aashgates@outlook.com',
