@@ -1,6 +1,5 @@
 const sgMail = require('@sendgrid/mail');
 
-sgMail.setApiKey('SG.HHtI_lt3Q0-_ZBIafkOfEg.tsKtKAvWWDzHoyvzjW9WFZHvtZvoGkuWBEl82XSIWEI');
 
 const msg = {
   to: 'aashgates@outlook.com',
