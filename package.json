@@ -1,15 +1,5 @@
 {
-  "name": "email_transcation",
-  "version": "1.0.0",
-  "description": "Constructing a Simple email transaction mechanism as part of traing at albertsons International Private Limited",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "Aash",
-    "Gates"
-  ],
-  "author": "Aashik J Krishnan socially Known as Aash Gates",
-  "license": "ISC"
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0"
+  }
 }
